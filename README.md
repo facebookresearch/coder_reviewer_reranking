@@ -2,7 +2,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Official code release for the paper [Coder Reviewer Reranking for Code Generation](www.arxiv.com).
+Official code release for the paper [Coder Reviewer Reranking for Code Generation](https://arxiv.org/abs/2211.16490).
 
 
 ## Setup
